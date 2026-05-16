@@ -1,0 +1,19 @@
+# Quartus
+db/
+incremental_db/
+output_files/
+
+# ModelSim
+transcript
+vsim.wlf
+work/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
