@@ -1,5 +1,11 @@
 # Open FPGA Robot Lab
 
+![FPGA](https://img.shields.io/badge/FPGA-Cyclone_IV-blue)
+![HDL](https://img.shields.io/badge/HDL-Verilog-orange)
+![Platform](https://img.shields.io/badge/Board-DE0--Nano-success)
+![Embedded](https://img.shields.io/badge/Embedded-ESP32-informational)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 ## Plataforma Educacional de FPGA + Robótica + IA Embarcada
 
 Open FPGA Robot Lab é um projeto educacional aberto focado em:

@@ -1,5 +1,11 @@
 # Open FPGA Robot Lab
 
+![FPGA](https://img.shields.io/badge/FPGA-Cyclone_IV-blue)
+![HDL](https://img.shields.io/badge/HDL-Verilog-orange)
+![Platform](https://img.shields.io/badge/Board-DE0--Nano-success)
+![Embedded](https://img.shields.io/badge/Embedded-ESP32-informational)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 ## FPGA + 机器人 + 嵌入式 AI 教育平台
 
 Open FPGA Robot Lab 是一个开放式教育项目，重点包括：
