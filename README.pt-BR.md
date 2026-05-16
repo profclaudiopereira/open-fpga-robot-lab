@@ -1,8 +1,16 @@
+🇺🇸 [English](README.md) | 🇧🇷 Português | 🇨🇳 [中文](README.zh-CN.md)
+
+<p align="center">
+  <img src="images/open_fpga_robot_lab_banner.png" alt="Open FPGA Robot Lab Banner">
+</p>
+
 # Open FPGA Robot Lab
+
+🇺🇸 [English](README.md) | 🇧🇷 Português | 🇨🇳 [中文](README.zh-CN.md)
 
 ![FPGA](https://img.shields.io/badge/FPGA-Cyclone_IV-blue)
 ![HDL](https://img.shields.io/badge/HDL-Verilog-orange)
-![Platform](https://img.shields.io/badge/Board-DE0--Nano-success)
+![Board](https://img.shields.io/badge/Board-DE0--Nano-success)
 ![Embedded](https://img.shields.io/badge/Embedded-ESP32-informational)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
